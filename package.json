@@ -1,12 +1,12 @@
 {
     "name": "@ijstech/ethereum",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Ethereum plugin",
     "author": "https://ijs.network",    
     "license": "MIT",        
     "dependencies": {
-        "web3": "1.3.5",
-        "@ijstech/bignumber": "^0.1.0"
+        "web3": "1.3.6",
+        "@ijstech/bignumber": "^0.1.1"
     },    
     "repository": {
         "type": "git",
